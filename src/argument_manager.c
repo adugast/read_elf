@@ -23,9 +23,9 @@ static void print_version()
 {
     printf("readelf64: version \?.\?.\?\?(\?)-release\n");
     printf("Own version of readelf for 64bit elf files\n");
-    printf("Copyright (C) 2018 pestbuns\n");
+    printf("Copyright (C) 2018 adugast\n");
     printf("MIT License: <https://opensource.org/licenses/MIT>\n");
-    printf("Git Repository: <https://github.com/pestbuns/readelf64>\n");
+    printf("Git Repository: <https://github.com/adugast/readelf64>\n");
     printf("\n");
     printf("This is free software; you are free to change and redistribute it.\n");
     printf("There is NO WARRANTY, to the extent permitted by law.\n");
